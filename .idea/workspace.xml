@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ffd1d12-b13f-4153-bc6b-fcdcb8f701c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Obama.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Plane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Obama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mayor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Plane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Clerk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +39,7 @@
     "Notification.DoNotAsk-Download Shared Index": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "D:/IdeaStudySpace/MyFirstDemo/MyFirstDemo",
     "nodejs_package_manager_path": "npm",
@@ -70,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1681997568876</updated>
       <workItem from="1681997571704" duration="355000" />
-      <workItem from="1681997960856" duration="3923000" />
+      <workItem from="1681997960856" duration="4539000" />
     </task>
     <servers />
   </component>

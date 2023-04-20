@@ -1,6 +1,6 @@
 public class Test {
     public static void main(String[] args) {
-        Obama obama=new Obama();
-        obama.command();
+        Mayor mayor =new Mayor();
+        mayor.command();
     }
 }
